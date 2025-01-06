@@ -1,0 +1,7 @@
+div.bzXtMb:nth-child(1) > div:nth-child(1) {
+    display: none;
+}
+
+#Odp5De > div:nth-child(2) > div:nth-child(1) {
+    margin-top: 2em;
+}
